@@ -7,13 +7,3 @@ for i in range(num_friends):
 
 print(f'Только Сладкоежкину нравится: {len(favorites_of_sladkoeshkin)}')
 
-
-
-
-
-
-
-
-
-
-
