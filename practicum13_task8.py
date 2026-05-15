@@ -8,7 +8,3 @@ for i in range(len(set_of_nums) + 1):
 
 print(list_of_sets)
 
-
-
-
-
