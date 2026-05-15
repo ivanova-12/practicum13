@@ -7,9 +7,3 @@ if possible_num in lst_of_repeated_nums:
 else:
     print(f"{possible_num} не принадлежит множеству повторяющихся чисел")
 
-
-
-
-
-
-
