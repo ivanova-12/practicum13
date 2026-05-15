@@ -6,5 +6,3 @@ all_permutations = itertools.permutations(set_of_nums)
 for perm in all_permutations:
     print(perm)
 
-
-
