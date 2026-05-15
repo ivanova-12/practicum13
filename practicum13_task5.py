@@ -13,8 +13,3 @@ def eratosthenes_sieve(n: int) -> set:
 if __name__ == '__main__':
     print(eratosthenes_sieve(int(input())))
 
-
-
-
-
-
