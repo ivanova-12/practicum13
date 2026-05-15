@@ -14,11 +14,3 @@ else:
 
 print([list(elem) for elem in sorted(list_of_right3)])
 
-
-
-
-
-
-
-
-
