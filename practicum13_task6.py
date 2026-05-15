@@ -5,5 +5,3 @@ for num in range(100, 1000):
 
         print(f"{num}+{num}+{num}={num * 3}")
 
-
-
