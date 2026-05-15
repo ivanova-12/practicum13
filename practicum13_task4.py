@@ -7,14 +7,3 @@ if num in set1 & set2:
 else:
     print('Не принадлежит')
 
-
-
-
-
-
-
-
-
-
-
-
