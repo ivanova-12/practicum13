@@ -10,7 +10,3 @@ if k_num <= n_len_set_of_nums:
 else:
     print('Нет таких подмножеств')
 
-
-
-
-
