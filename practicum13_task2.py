@@ -7,14 +7,3 @@ for i in range(1, num_of_students):
 
 print(f'Кол-во курсов выбранных всеми студентами: {len(curses1)}')
 
-
-
-
-
-
-
-
-
-
-
-
